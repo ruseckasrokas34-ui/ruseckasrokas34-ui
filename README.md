@@ -2,36 +2,63 @@
 
 # &gt; whoami
 
-# Hi, I'm Rokas Ruseckas
+# &lt; Rokas Ruseckas /&gt;
 
-**Cybersecurity Student | Software Developer | Linux Enthusiast**
+### Cybersecurity Student | Software Developer | Linux Enthusiast
 
 ```bash
-$ cat about.txt
-University: Fontys University of Applied Sciences
-Program: HBO-ICT — Cybersecurity
-Interests: Penetration Testing, Network Security, Secure Development
-Location: Netherlands
+┌──(rokas㉿github)-[~]
+└─$ whoami
+
+Name       : Rokas Ruseckas
+Education  : HBO-ICT Cybersecurity @ Fontys University
+Location   : Netherlands
+Focus      : Penetration Testing | Network Security | Secure Development
+Status     : Learning, building, improving.
 ```
 
-## &gt; tech_stack
+## &gt; cat about_me.txt
 
-**Languages:** Python · JavaScript · HTML · CSS
+I'm a Cybersecurity student at Fontys University of Applied Sciences with an interest in offensive security, networking, Linux systems, and software development.
 
-**Frameworks:** Flask · Jinja
+I enjoy building practical applications, exploring security concepts in authorized lab environments, and documenting what I learn.
 
-**Systems & Tools:** Linux · Kali Linux · Git · GitHub · VS Code
+## &gt; ls ./technical_skills
 
-## &gt; featured_projects
+**Programming:** Python · JavaScript · HTML · CSS
 
-Projects and technical write-ups coming soon.
+**Web Development:** Flask · Jinja · Responsive Design
 
-## &gt; current_focus
+**Systems:** Linux · Kali Linux · Windows
 
-- Developing practical cybersecurity skills
-- Building and documenting secure applications
-- Learning through authorized penetration-testing labs
+**Tools:** Git · GitHub · VS Code · Virtual Machines
 
-## &gt; connect
+**Security Interests:** Penetration Testing · Network Security · Web Application Security
 
-Explore my repositories and follow my development journey.
+## &gt; ls ./projects
+
+| Project | Description | Technologies |
+|---------|-------------|--------------|
+| HIBook | Cybersecurity education platform | Python, Flask, HTML, CSS, JavaScript |
+| Edutastic | Interactive educational games | HTML, CSS, JavaScript |
+| Cybersecurity Labs | Authorized security exercises and technical documentation | Linux, Networking, Security Tools |
+
+*Project repositories and documentation are being organized.*
+
+## &gt; cat current_objectives.txt
+
+- Develop practical cybersecurity and networking skills
+- Improve secure software development practices
+- Document technical projects and security labs
+- Prepare for professional cybersecurity opportunities
+
+## &gt; git status
+
+```text
+On branch: continuous-improvement
+Working on: Cybersecurity skills and practical projects
+```
+
+---
+
+**[Explore my repositories](https://github.com/unistudent444?tab=repositories)**
