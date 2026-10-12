@@ -27,15 +27,16 @@ I enjoy building practical applications, exploring security concepts in authoriz
 
 ## &gt; ls ./technical_skills
 
-**Programming:** Python · JavaScript · HTML · CSS
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-333333?style=for-the-badge&logo=linux&logoColor=white)
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-367BF0?style=for-the-badge&logo=kalilinux&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-333333?style=for-the-badge&logo=flask&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-**Web Development:** Flask · Jinja · Responsive Design
-
-**Systems:** Linux · Kali Linux · Windows
-
-**Tools:** Git · GitHub · VS Code · Virtual Machines
-
-**Security Interests:** Penetration Testing · Network Security · Web Application Security
+**Security Focus:** Penetration Testing · Network Security · Web Application Security
 
 ## &gt; ls ./projects
 
