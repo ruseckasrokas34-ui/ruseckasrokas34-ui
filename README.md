@@ -1,3 +1,9 @@
+<div align="center">
+
+![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=25&duration=3000&pause=1000&color=00FF88&center=true&vCenter=true&width=700&lines=Cybersecurity+Student;Linux+Enthusiast;Software+Developer;Learning+Offensive+Security)
+
+</div>
+
 # &lt; Rokas Ruseckas /&gt;
 
 ### Cybersecurity Student | Software Developer | Linux Enthusiast
