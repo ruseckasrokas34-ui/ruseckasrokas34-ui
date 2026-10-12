@@ -65,3 +65,13 @@ Working on: Cybersecurity skills and practical projects
 ---
 
 **[Explore my repositories](https://github.com/unistudent444?tab=repositories)**
+
+## > ./github_stats.sh
+
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ruseckasrokas34-ui&show_icons=true&theme=github_dark&title_color=00FF88&icon_color=00FF88&text_color=FFFFFF&bg_color=0D1117&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ruseckasrokas34-ui&layout=compact&theme=github_dark&title_color=00FF88&text_color=FFFFFF&bg_color=0D1117&hide_border=true)
+
+</div>
