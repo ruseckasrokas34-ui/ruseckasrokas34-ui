@@ -1,7 +1,3 @@
-# ruseckasrokas34-ui
-
-# &gt; whoami
-
 # &lt; Rokas Ruseckas /&gt;
 
 ### Cybersecurity Student | Software Developer | Linux Enthusiast
