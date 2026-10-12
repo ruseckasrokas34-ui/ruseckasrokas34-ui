@@ -91,7 +91,7 @@ Working on: Cybersecurity skills and practical projects
 
 <div align="center">
 
-![Contribution Activity](https://github-readme-activity-graph.vercel.app/graph?username=ruseckasrokas34-ui&bg_color=0D1117&color=00FF88&line=00FF88&point=FFFFFF&area=true&hide_border=true)
+![GitHub Contribution Calendar](https://ghchart.rshah.org/00FF88/ruseckasrokas34-ui)
 
 </div>
 
