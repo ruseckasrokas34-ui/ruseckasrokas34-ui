@@ -48,14 +48,37 @@ I enjoy building practical applications, exploring security concepts in authoriz
 
 ## > ls ./projects
 
-| Project | Description | Technologies |
-|---------|-------------|--------------|
-| HIBook | Cybersecurity education platform (team project) | Python, Flask, HTML, CSS, JavaScript |
-| Oblivion | Web security awareness project (team project) | HTML, CSS, JavaScript |
-| Edutastic | Interactive educational games | HTML, CSS, JavaScript |
-| Cybersecurity Labs | Authorized security exercises and technical documentation | Linux, Networking, Security Tools |
+### [01] HIBook — Cybersecurity Education Platform
+**Stack:** Python · Flask · JavaScript · HTML · CSS
 
-*Public project showcases and documentation are being organized.*
+Team project focused on cybersecurity education and interactive learning.
+
+**My contributions:** User profiles, advertisement creation,
+navigation, quiz functionality, and frontend improvements.
+
+[View HIBook Repository](https://github.com/ruseckasrokas34-ui/hibook)
+
+---
+
+### [02] Oblivion — Web Security Awareness
+**Stack:** HTML · CSS · JavaScript
+
+Team project exploring phishing, malicious downloads,
+dating scams, and deceptive web interfaces.
+
+[View Oblivion Repository](https://github.com/ruseckasrokas34-ui/oblivion)
+
+---
+
+### [03] Edutastic — Interactive Educational Games
+**Stack:** HTML · CSS · JavaScript
+
+Individual project featuring interactive educational games
+for children, progress tracking, and responsive interfaces.
+
+*Repository coming soon.*
+
+---
 
 ## > cat current_objectives.txt
 
