@@ -2,13 +2,17 @@
 
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=25&duration=3000&pause=1000&color=00FF88&center=true&vCenter=true&width=700&lines=Cybersecurity+Student;Linux+Enthusiast;Software+Developer;Learning+Offensive+Security)
 
-</div>
-
-# &lt; Rokas Ruseckas /&gt;
+# < Rokas Ruseckas />
 
 ### Cybersecurity Student | Software Developer | Linux Enthusiast
 
-```bash
+</div>
+
+---
+
+## > whoami
+
+```text
 ┌──(rokas㉿github)-[~]
 └─$ whoami
 
@@ -19,13 +23,15 @@ Focus      : Penetration Testing | Network Security | Secure Development
 Status     : Learning, building, improving.
 ```
 
-## &gt; cat about_me.txt
+## > cat about_me.txt
 
 I'm a Cybersecurity student at Fontys University of Applied Sciences with an interest in offensive security, networking, Linux systems, and software development.
 
 I enjoy building practical applications, exploring security concepts in authorized lab environments, and documenting what I learn.
 
-## &gt; ls ./technical_skills
+## > ls ./technical_skills
+
+<div align="center">
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
@@ -36,26 +42,29 @@ I enjoy building practical applications, exploring security concepts in authoriz
 ![Flask](https://img.shields.io/badge/Flask-333333?style=for-the-badge&logo=flask&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
+</div>
+
 **Security Focus:** Penetration Testing · Network Security · Web Application Security
 
-## &gt; ls ./projects
+## > ls ./projects
 
 | Project | Description | Technologies |
 |---------|-------------|--------------|
-| HIBook | Cybersecurity education platform | Python, Flask, HTML, CSS, JavaScript |
+| HIBook | Cybersecurity education platform (team project) | Python, Flask, HTML, CSS, JavaScript |
+| Oblivion | Web security awareness project (team project) | HTML, CSS, JavaScript |
 | Edutastic | Interactive educational games | HTML, CSS, JavaScript |
 | Cybersecurity Labs | Authorized security exercises and technical documentation | Linux, Networking, Security Tools |
 
-*Project repositories and documentation are being organized.*
+*Public project showcases and documentation are being organized.*
 
-## &gt; cat current_objectives.txt
+## > cat current_objectives.txt
 
 - Develop practical cybersecurity and networking skills
 - Improve secure software development practices
 - Document technical projects and security labs
 - Prepare for professional cybersecurity opportunities
 
-## &gt; git status
+## > git status
 
 ```text
 On branch: continuous-improvement
@@ -64,7 +73,11 @@ Working on: Cybersecurity skills and practical projects
 
 ---
 
-**[Explore my repositories](https://github.com/unistudent444?tab=repositories)**
+<div align="center">
+
+[**Explore My Repositories**](https://github.com/ruseckasrokas34-ui?tab=repositories)
+
+</div>
 
 ## > ./github_stats.sh
 
@@ -72,6 +85,20 @@ Working on: Cybersecurity skills and practical projects
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ruseckasrokas34-ui&show_icons=true&theme=github_dark&title_color=00FF88&icon_color=00FF88&text_color=FFFFFF&bg_color=0D1117&hide_border=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ruseckasrokas34-ui&layout=compact&theme=github_dark&title_color=00FF88&text_color=FFFFFF&bg_color=0D1117&hide_border=true)
+</div>
+
+## > ./contribution_activity.sh
+
+<div align="center">
+
+![Contribution Activity](https://github-readme-activity-graph.vercel.app/graph?username=ruseckasrokas34-ui&bg_color=0D1117&color=00FF88&line=00FF88&point=FFFFFF&area=true&hide_border=true)
+
+</div>
+
+---
+
+<div align="center">
+
+`[ SYSTEM ONLINE ]` · `[ KEEP LEARNING ]` · `[ KEEP BUILDING ]`
 
 </div>
